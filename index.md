@@ -31,6 +31,8 @@ Hi, my name is Haejin (aka Amy) and I relocated to Canada recently and have ampl
 4. Bayesian Statistics
 5. Statistics with R Capstone
 
+<!---
+[//]:<> (
 ### CompTIA A+ 
 1. Peripherals and Adapter
 2. System Components
@@ -40,6 +42,9 @@ Hi, my name is Haejin (aka Amy) and I relocated to Canada recently and have ampl
 6. Supporting Windows
 7. Supporting Windows Network
 8. Linux, OS X, and Mobile OS
+)
+
+-->
 
 ### Random Visualization Ideas 
 1. Illustration
