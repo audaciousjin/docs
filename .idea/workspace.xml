@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c16005-621e-428c-8311-8c4a218ca3af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/visualization/viz.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/color_schemes/dark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/content.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/custom/custom.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/navigation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/search.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/mixins/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/support/support.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/_colors.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities/utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/normalize.scss/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/normalize.scss/normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/normalize.scss/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/configuration.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/statistics-with-R/statistics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/customization.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/disability-awareness/disability-awareness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/canada/canada.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/navigation-structure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/it-certificates/aplus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/buttons.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/labels.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/lists.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/tables.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/typography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ui-components/ui-components.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/utilities/color.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/utilities/layout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/utilities/responsive-modifiers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/utilities/typography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/utilities/utilities.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="52c16005-621e-428c-8311-8c4a218ca3af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -327,7 +269,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="721" />
     <option name="y" value="23" />
     <option name="width" value="719" />
@@ -418,16 +360,15 @@
       <workItem from="1559339962904" duration="314000" />
       <workItem from="1559341065265" duration="1449000" />
       <workItem from="1559368299139" duration="8328000" />
-      <workItem from="1560907843862" duration="10117000" />
+      <workItem from="1560907843862" duration="10456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20208000" />
+    <option name="totallyTimeSpent" value="20547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="23" width="719" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="721" y="23" width="719" height="837" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20236337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
