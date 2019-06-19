@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c16005-621e-428c-8311-8c4a218ca3af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/it-certificates/aplus.md" beforeDir="false" />
-    </list>
+    <list default="true" id="52c16005-621e-428c-8311-8c4a218ca3af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -144,18 +142,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="86">
-                <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -260,9 +246,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="721" />
     <option name="y" value="23" />
-    <option name="width" value="719" />
+    <option name="width" value="720" />
     <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -350,17 +335,17 @@
       <workItem from="1559339962904" duration="314000" />
       <workItem from="1559341065265" duration="1449000" />
       <workItem from="1559368299139" duration="8328000" />
-      <workItem from="1560907843862" duration="10900000" />
+      <workItem from="1560907843862" duration="11249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20991000" />
+    <option name="totallyTimeSpent" value="21340000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="23" width="719" height="837" extended-state="0" />
+    <frame x="0" y="23" width="720" height="837" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3293944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32890856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -379,7 +364,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.35167786" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.35167786" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
