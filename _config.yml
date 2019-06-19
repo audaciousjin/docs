@@ -16,7 +16,7 @@
 title: Amy's Adventure
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/audaciousjin/docs/blob/master" # the base hostname & protocol for your site, e.g. http://example.com
+url: "." # the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: pretty
