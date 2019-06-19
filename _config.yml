@@ -15,8 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Amy's Adventure
 description: A Jekyll theme for documentation
+<<<<<<< HEAD
 baseurl: "/docs/" # the subpath of your site, e.g. /blog
 url: "https://audaciousjin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "." # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> 743eedc8784dbde2ed5cdf252a2f6963dd2d1fde
 
 
 permalink: pretty
