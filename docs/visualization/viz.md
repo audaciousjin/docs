@@ -45,12 +45,12 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
 <br>
 - Tips for Jekyll 
 - [x] <span style="color:#7253ed">`custom domain`</span> &nbsp; CNAME file must include "www." to avoid redirected errors 
-- [x] <span style="color:#7253ed">`CNAME`</span> &nbsp; once CNAME is set, a relative path should be used. 
+- [x] <span style="color:#7253ed">`PATH`</span> &nbsp; whem an image doesn't show up or CSS fails to load, check out PATHs 
 
 ```javascript
-[x] `<img src="{{site.url}}{{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}">`
+[o] `<img src="{{site.url}}{{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}">`
 
-[o] `<img src={{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}>`
+[x] `<img src={{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}>`
 ```
 
 - [x] <span style="color:#7253ed">`command+shift+r`</span> &nbsp; deleted cached data in a Chrome browser
