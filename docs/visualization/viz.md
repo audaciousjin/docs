@@ -26,12 +26,27 @@ Let me share some of my works in the following areas:
 - Web Design(e.g. CSS, UX/UI)
 
 ## Illustrator
-### a. flat icon for this blog
+### Favicon for this blog
+I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my daily life and learning. As much as I love the theme, I also wanted to customize it so that `it feels more like my own space`. I decided to design a tiny little favicon.ico! Here comes my flow of thoughts :) 
 
-### b. research areas of previous workplace 
+![]({{ site.baseurl }}{% link docs/visualization/assets/icon-flow.png %})
+
+- Useful Tips
+- [x] <span style="color:#7253ed">`Join tools`</span> &nbsp; work like a charm when combining paths seamlessly.
+- [x] <span style="color:#7253ed"> `contrl+2`</span>: &nbsp; lock an object 
+- [x] <span style="color:#7253ed"> `option+contrl+2`</span>: &nbsp; unlock all objects 
+- [x] <span style="color:#7253ed"> `command+b` </span>: &nbsp; paste behind the copied graphic. 
+<br>
+
+<span stype="font-size:small">To imitate neon lights, differentially blurred objects have to be merged. Most important thing is that the objects have to be merged orderly; we have to bring less blurred object forward and send more blurred one backward. `command+b` pasted a copied object behind the original one, which makes the orderly arrangement of objects easier.</span> 
+
+- [x] <span style="color:#7253ed"> `favicon.ico` </span>: &nbsp; you can simply convert png to ico by changing a file name (Mac)
+ 
+
+### Research areas of previous workplace
 
 
-## Data Visualization
+## Data visualization
 ### RShiny & Highchart
 
-## Web Design(e.g. CSS, UX/UI)
+## Web design(e.g. CSS, UX/UI)
