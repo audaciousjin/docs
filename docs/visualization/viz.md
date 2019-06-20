@@ -31,18 +31,31 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
 
 ![]({{ site.baseurl }}{% link /docs/visualization/assets/icon-flow.png %})
 
-- Useful Tips
+<br>
+- Tips for Illustrator 
 - [x] <span style="color:#7253ed">`Join tools`</span> &nbsp; work like a charm when combining paths seamlessly.
 - [x] <span style="color:#7253ed"> `contrl+2`</span>: &nbsp; lock an object 
 - [x] <span style="color:#7253ed"> `option+contrl+2`</span>: &nbsp; unlock all objects 
 - [x] <span style="color:#7253ed"> `command+b` </span>: &nbsp; paste behind the copied graphic. 
-<br>
 
 <span stype="font-size:small">To imitate neon lights, differentially blurred objects have to be merged. Most important thing is that the objects have to be merged orderly; we have to bring less blurred object forward and send more blurred one backward. `command+b` pasted a copied object behind the original one, which makes the orderly arrangement of objects easier.</span> 
 
 - [x] <span style="color:#7253ed"> `favicon.ico` </span>: &nbsp; you can simply convert png to ico by changing a file name (Mac)
- 
 
+<br>
+- Tips for Jekyll 
+- [x] <span style="color:#7253ed">`custom domain`</span> &nbsp; CNAME file must include "www." to avoid redirected errors 
+- [x] <span style="color:#7253ed">`CNAME`</span> &nbsp; once CNAME is set, a relative path should be used. 
+
+```javascript
+[x] `<img src="{{site.url}}{{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}">`
+
+[o] `<img src={{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}>`
+```
+
+- [x] <span style="color:#7253ed">`command+shift+r`</span> &nbsp; deleted cached data in a Chrome browser
+ 
+<br>
 ### Research areas of previous workplace
 
 
