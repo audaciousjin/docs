@@ -26,7 +26,12 @@ Let me share some of my works in the following areas:
 - Web Design(e.g. CSS, UX/UI)
 
 ## Illustrator
-### Favicon for this blog
+### Favicon for this blog 
+{: .d-inline-block }
+
+New 
+{: .label .label-green }
+
 I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my daily life and learning. As much as I love the theme, I also wanted to customize it so that `it feels more like my own space`. I decided to design a tiny little favicon.ico! Here comes my flow of thoughts :) 
 
 ![]({{ site.baseurl }}{% link /docs/visualization/assets/icon-flow.png %})
