@@ -15,9 +15,9 @@ nav_order: 4
 
 ---
 
-In the fifth grade, my teacher used to give homework; `to make booklets on given topics`. In the beginning, mine was nothing but mediocre. However, the more I worked on, the more I got fascinated by the process of explaining my understanding of a variety of topics. Especially, I was shy and not so much of a conversationalist back then, I realized visual aids significantly enhanced my communication skills.
+In the fifth grade, my teacher used to give unique homework; `to make booklets on given topics`. In the beginning, mine was nothing but mediocre. However, the more I worked on, the more I got fascinated by the process of digesting a certain subject and explaining it my own way. Especially, I was shy and not so much of a conversationalist back then, I realized visual aids significantly enhanced my communication skills.
 
-When I again made a career transition to the IT sector two years ago, I realized sometimes I spoke a different language with some colleagues with engineering backgrounds. Whenever that happened, we drew our rough ideas and thoughts which I enjoyed so much. 
+When I made a career transition to a science and technology research institute two years ago, I realized sometimes I spoke a different language with some colleagues with engineering backgrounds. Whenever that happened, we drew our rough ideas and thoughts which I enjoyed so much. 
 
 Let me share some of my works in the following areas: 
 
@@ -36,29 +36,26 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
 
 ![]({{site.url}}{{site.baseurl}}{% link /docs/visualization/assets/icon-flow.png %})
 
-<br>
-- Tips for Illustrator 
-- [x] <span style="color:#7253ed">`Join tools`</span> &nbsp; work like a charm when combining paths seamlessly.
-- [x] <span style="color:#7253ed"> `contrl+2`</span>: &nbsp; lock an object 
-- [x] <span style="color:#7253ed"> `option+contrl+2`</span>: &nbsp; unlock all objects 
-- [x] <span style="color:#7253ed"> `command+b` </span>: &nbsp; paste behind the copied graphic. 
+- <strong>Tips for Illustrator</strong> 
+    1. <span style="color:#7253ed">Join</span> &nbsp; work like a charm when combining paths seamlessly (ol)
+    1. <span style="color:#7253ed">command+2</span>: &nbsp; lock an object (ol)
+    1. <span style="color:#7253ed">option+contrl+2</span>: &nbsp; unlock all objects (ol)
+    1. <span style="color:#7253ed">command+b</span>: &nbsp; paste behind the copied graphic. (ol)
+   1. <span style="color:#7253ed">*.ico</span>: &nbsp; you can simply convert png to ico by changing a file name/extension (Mac) (ol)
+    
+  When to use paste behind? To imitate neon lights, differentially blurred objects have to be merged. Most important thing is that the objects have to be merged orderly; we have to bring less blurred object forward and send more blurred one backward. `command+b` pasted a copied object behind the original one, which makes the orderly arrangement of objects easier.
+    
 
-<span stype="font-size:small">To imitate neon lights, differentially blurred objects have to be merged. Most important thing is that the objects have to be merged orderly; we have to bring less blurred object forward and send more blurred one backward. `command+b` pasted a copied object behind the original one, which makes the orderly arrangement of objects easier.</span> 
-
-- [x] <span style="color:#7253ed"> `favicon.ico` </span>: &nbsp; you can simply convert png to ico by changing a file name (Mac)
-
-<br>
-- Tips for Jekyll 
-- [x] <span style="color:#7253ed">`custom domain`</span> &nbsp; CNAME file must include "www." to avoid redirected errors 
-- [x] <span style="color:#7253ed">`PATH`</span> &nbsp; whem an image doesn't show up or CSS fails to load, check out PATHs 
+- <strong>Tips for Jekyll & Github Pages</strong>  
+    1. <span style="color:#7253ed">Custom domain</span> &nbsp; CNAME file must include "www." to avoid redirected loop errors (ol)
+    1. <span style="color:#7253ed">PATH</span> &nbsp; when an image doesn't show up or CSS fails to load, check out PATHs (ol)
+    1. <span style="color:#7253ed"> command+shift+r </span> &nbsp; deleted cached data in a Chrome browser
 
 ```javascript
 [o] `<img src="{{site.url}}{{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}">`
 
 [x] `<img src={{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}>`
 ```
-
-- [x] <span style="color:#7253ed">`command+shift+r`</span> &nbsp; deleted cached data in a Chrome browser
  
 <br>
 ### Research areas of previous workplace
