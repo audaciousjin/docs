@@ -2,31 +2,51 @@
 layout: default
 title: Canada
 nav_order: 99
+
+nav_exclude: true
+search_exclude: true
 ---
 
-# Canada 
+# Statistics with R
 {: .no_toc }
 
-#### based on my experience - could be very biased
+#### by Duke University
 {: .no_toc }
 
 <br/>
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .no_toc .text-delt }
 
 1. TOC
 {:toc}
 
 ---
 
-## CPR & First Aid
-{: .d-inline-block }
+## Introduction to Probability and Data
 
-New
-{: .label .label-green }
+```r
+in progress
+```
 
-## Nonviolent Crisis Intervention Training (NVCI)
+## Inferential Statistics
 
+```r
+in progress
+```
 
+## Linear Regression and Modeling
 
+```r
+in progress
+```
+
+## Bayesian Statistics
+```r
+in progress
+```
+
+## Statistics with R Capstone
+```r
+in progress
+```

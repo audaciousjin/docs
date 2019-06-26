@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Visualization
-nav_order: 4
+title: Design
+nav_order: 3
 ---
 
 # Random Visualization
@@ -34,7 +34,7 @@ New
 
 I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my daily life and learning. As much as I love the theme, I also wanted to customize it so that `it feels more like my own space`. I decided to design a tiny little favicon.ico! Here comes my flow of thoughts :) 
 
-![]({{site.url}}{{site.baseurl}}{% link /docs/visualization/assets/icon-flow.png %})
+![]({{site.url}}{{site.baseurl}}{% link /docs/design/assets/icon-flow.png %})
 
 - <strong>Tips for Illustrator</strong> 
     1. <span style="color:#7253ed">Join</span> &nbsp; work like a charm when combining paths seamlessly (ol)
@@ -52,13 +52,22 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
     1. <span style="color:#7253ed"> command+shift+r </span> &nbsp; deleted cached data in a Chrome browser
 
 ```javascript
-[o] `<img src="{{site.url}}{{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}">`
+[o] `<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/icon-flow.png %}">`
 
-[x] `<img src={{site.baseurl}}{% link docs/visualization/assets/icon-flow.png %}>`
+[x] `<img src={{site.baseurl}}{% link docs/design/assets/icon-flow.png %}>`
 ```
  
 <br>
 ### Research areas of previous workplace
+When I started my new internship at a research institue, I visualized our research team's topics for fun :) I still consider myself as a novice Illustrator design. They're my works using Illustrator. Although technically everything moment was challenge, I really enjoyed the entire process.
+
+<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/researchField.png %}">
+
+<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research2.png %}">
+
+<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research2.png %}">
+
+
 
 
 ## Data visualization

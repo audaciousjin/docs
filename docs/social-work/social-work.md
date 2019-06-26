@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Disability Awareness
-nav_order: 2
+title: Social Work
+nav_order: 4
 ---
 
 # Disability Awareness and Support 
@@ -43,9 +43,9 @@ A physical or mental (e.g. cerebral palsy, autism) impairment that substantially
 
 <br>          
 - <strong> Key Legislation </strong>
-    - UN Convention on the Rights of Persons with Disabilities (adopted by UNGA 2006): to promote, protect, ensure the full and equal enjoyment of all human rights and fundamental freedoms by all people with disabilities and to promote respect for their inherent dignity.
+    - <strong>UN Convention on the Rights of Persons with Disabilities</strong> (adopted by UNGA 2006): to promote, protect, ensure the full and equal enjoyment of all human rights and fundamental freedoms by all people with disabilities and to promote respect for their inherent dignity.
         - The Convention recognizes attitudinal and environmental barriers that hinder the full and effective participation of people with disabilities.
-        - Article 24 stipulate that all people with disabilities have the right to an education without discrimination!
+        - Article 24 stipulates that all people with disabilities have the right to an education without discrimination.
     - Canada: 
      1. Charter of Rights and Freedoms(1982): persons with disabilities are protected by and will receive the same benefits under the law as any other Canadian
      1. Canadian Human Rights Act

@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Statistics with R
+title: Statistics
 nav_order: 3
+
+nav_exclude: true
+search_exclude: true
 ---
 
 # Statistics with R

@@ -17,20 +17,33 @@ Hi, my name is Haejin (aka Amy) and I relocated to Canada recently and have ampl
 
 ## Areas of interest
 
-### [Disability Awareness and Support by University of Pittsburgh]({{site.url}}{{site.baseurl}}{% link docs/disability-awareness/disability-awareness.md %})
 
-1. Introduction 
-2. Accommodations and Assistive Technology
-3. Accessible Design
-4. Application
+### [Programming]({{site.url}}{{site.baseurl}}{% link docs/programming/programming.md %})
+1. Invoice Generator
+2. Bash Scripts
 
+### [Design]({{site.url}}{{site.baseurl}}{% link docs/design/design.md %}) 
+1. Illustration
+2. Data Visualization
+3. Web Design(e.g. CSS, UX/UI)
 
-### [Statistics with R offered by Duke University]({{site.url}}{{site.baseurl}}{% link docs/statistics-with-R/statistics.md %})
+### [Social Works]({{site.url}}{{site.baseurl}}{% link docs/social-work/social-work.md %})
+
+1. Disability Awareness and Support by University of Pittsburgh
+
+<!---
+### [Statistics]({{site.url}}{{site.baseurl}}{% link docs/statistics/statistics.md %})
 1. Introduction to Probability and Data
 2. Inferential Statistics 
 3. Linear Regression and Modeling 
 4. Bayesian Statistics
 5. Statistics with R Capstone
+-->
+
+<!---
+### [Canadian Experience]({{site.url}}{{site.baseurl}}{% link docs/canada/canada.md %})
+1. First Aid & CPR
+-->
 
 <!---
 [//]:<> (
@@ -44,15 +57,8 @@ Hi, my name is Haejin (aka Amy) and I relocated to Canada recently and have ampl
 7. Supporting Windows Network
 8. Linux, OS X, and Mobile OS
 )
-
 -->
 
-### [Random Visualization Ideas]({{site.url}}{{site.baseurl}}{% link docs/visualization/viz.md %}) 
-1. Illustration
-2. Data Visualization
-3. Web Design(e.g. CSS, UX/UI)
 
-### [Culture, People, Food in Canada]({{site.url}}{{site.baseurl}}{% link docs/canada/canada.md %})
-1. First Aid & CPR
-2. Nonviolent Crisis Intervention Training (NVCI)
+
 
