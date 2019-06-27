@@ -132,9 +132,11 @@ How can you use flexbox? Just add "display: flex;" to a container <div> which wr
         - Once global rules are determined by container CSS, you can customize individual item's CSS rules
         ; size in relation to a screen width (flex-basis)
         align (self-align), order (order), size in relation to other items (grow). <br><br>    
-           
+        
+<!--           
    - **Flexbox Cheat Sheet**
    ![image](https://user-images.githubusercontent.com/31587077/60154084-294abe00-979b-11e9-80f2-1d401741dc33.png)
+-->
 
 {:.space100}
 
