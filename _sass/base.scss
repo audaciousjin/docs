@@ -98,7 +98,6 @@ li {
 
 img {
   max-width: 100%;
-  height: auto;
 }
 
 hr {
@@ -107,4 +106,19 @@ hr {
   margin: $sp-6 0;
   background-color: $border-color;
   border: 0;
+}
+
+.columnContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemContainer {
+  margin: 2%;
+}
+
+.itemContainer img {
+  height: auto;
 }

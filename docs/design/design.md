@@ -59,18 +59,87 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
  
 <br>
 ### Research areas of previous workplace
-When I started my new internship at a research institue, I visualized our research team's topics for fun :) I still consider myself as a novice Illustrator design. They're my works using Illustrator. Although technically everything moment was challenge, I really enjoyed the entire process.
+When I started my new internship at a research institue, I visualized our research team's topics for fun :) I still consider myself as a novice Illustrator design. They're the earlist works that I did using Illustrator. It took weeks but I really enjoyed the entire process.  
 
+<div class="columnContainer">
+    
+<div class="itemContainer" style="flex-basis:50%">
 <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/researchField.png %}">
+</div>
 
-<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research2.png %}">
+<div class="itemContainer" style="flex-basis:25%">
+    <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research2.png %}">
+</div>
 
-<img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research2.png %}">
+<div class="itemContainer" style="flex-basis:25%">
+    <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/research3.png %}">
+</div>
+    
+</div>
+
+### Crisis Development Model 
+_As my first job in Canada_, I am going to help people with developmental disabilities use assistive apps in iPad. Working with the neurotypical naturally entails more frequent occurrence of crises. So, my company organized a workshop regarding non-violent crisis management skills. I visualized **the Crisis Prevention Institute (CPI) Crisis Development Model** as I have to know it by heart to cope with such situation in a professional manner.
 
 
+<div class="columnContainer">    
+
+ <div class="itemContainer" style="flex-basis:50%">
+ <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/nonviolent/step1.png %}">
+ 
+ </div>
+ <div class="itemContainer" style="flex-basis:50%">
+ <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/nonviolent/step2.png %}">
+ </div>
+ 
+</div>
 
 
+<div class="columnContainer">    
+
+ <div class="itemContainer" style="flex-basis:50%">
+ <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/nonviolent/step3.png %}">
+  </div>
+  
+ <div class="itemContainer" style="flex-basis:50%">
+ <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/nonviolent/step4.png %}">
+ </div>
+ 
+</div>  
+
+  
 ## Data visualization
 ### RShiny & Highchart
+`COMING SOON`
+
+
+<br>
 
 ## Web design(e.g. CSS, UX/UI)
+### Flexbox
+#### based on Jonas' [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/)
+
+What makes me irritating all the time is "LAYOUT". For instance, when I want to put three images in the same row. They have to be vertically aligned center. Answer is in **Flexbox**! [answer also in CodePen](https://codepen.io/audaciousjin/pen/orGVeE)
+
+How can you use flexbox? Just add "display: flex;" to a container <div> which wraps items/images/children.  
+
+- <strong>FLEXBOX PROPERTY</strong> 
+    - **Container**
+        1. <span style="color:#7253ed">flex-direction | **row(default)**, column, row-reverse, column-reverse </span>: &nbsp; display items as a row or column? reverse order can be applied. 
+        1. <span style="color:#7253ed">flex-wrap | **nowrap**, wrap, wrap-reverse </span>: &nbsp; depending on a size of a screen, flex container responsively wrap the items.  
+        1. <span style="color:#7253ed">justify-content | **flex-start**, flex-end, center, space-between, space-around, space-evenly </span>: &nbsp; when flex-direction is row, justify-content aligns items horizontally left(flex-start), right(flex-end), centered(center). or spreads your items evenly across the entire width(space-between, space-around)  
+        1. <span style="color:#7253ed">align-content | **stretch**,flex-start, flex-end, center, baseline </span>: &nbsp; different from the previous scenario, what if your flex-direction is column? how would you align the vertically/column arranged items left, right, centered? align-content is the answer :) Make sure to add a wrap otherwise, align-content won't work.  
+        1. <span style="color:#7253ed">align-items | **stretch**,flex-start, flex-end, center, space-between, space-around</span>: &nbsp; align items in relation with other items. For instance, if you have three images with different heights, you might want to stretch two images' heights to a height of the tallest images - choose "stretch"". Or you just want them to be vertically center aligned - choose "center".     
+        
+    <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/flex/flex-con.png %}">
+ 
+   - **Items**
+        1. Once global rules are determined by container CSS, you can customize individual item's CSS rules
+        ; size in relation to a screen width (flex-basis)
+        align (self-align), order (order), size in relation to other items (grow). 
+        
+    <img src="{{site.url}}{{site.baseurl}}{% link docs/design/assets/flex/flex-item.png %}">
+
+    - **Flexbox Cheat Sheet**
+![image](https://user-images.githubusercontent.com/31587077/60154084-294abe00-979b-11e9-80f2-1d401741dc33.png)
+
+
