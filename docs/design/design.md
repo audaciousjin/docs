@@ -34,18 +34,18 @@ I found a nice Jekyll them, Just the Docs! It seems very ideal for archiving my 
 ![]({{site.url}}{{site.baseurl}}{% link /docs/design/assets/icon-flow.png %})
 
 - <strong>Tips for Illustrator</strong> 
-    1. <span style="color:#7253ed">Join</span> &nbsp; work like a charm when combining paths seamlessly (ol)
-    1. <span style="color:#7253ed">command+2</span>: &nbsp; lock an object (ol)
-    1. <span style="color:#7253ed">option+contrl+2</span>: &nbsp; unlock all objects (ol)
-    1. <span style="color:#7253ed">command+b</span>: &nbsp; paste behind the copied graphic. (ol)
-   1. <span style="color:#7253ed">*.ico</span>: &nbsp; you can simply convert png to ico by changing a file name/extension (Mac) (ol)
+    1. <span style="color:#7253ed">Join</span> &nbsp; work like a charm when combining paths seamlessly 
+    1. <span style="color:#7253ed">command+2</span>: &nbsp; lock an object 
+    1. <span style="color:#7253ed">option+contrl+2</span>: &nbsp; unlock all objects 
+    1. <span style="color:#7253ed">command+b</span>: &nbsp; paste behind the copied graphic. 
+   1. <span style="color:#7253ed">*.ico</span>: &nbsp; you can simply convert png to ico by changing a file name/extension (Mac) 
     
   When to use paste behind? To imitate neon lights, differentially blurred objects have to be merged. Most important thing is that the objects have to be merged orderly; we have to bring less blurred object forward and send more blurred one backward. `command+b` pasted a copied object behind the original one, which makes the orderly arrangement of objects easier.
     
 
 - <strong>Tips for Jekyll & Github Pages</strong>  
-    1. <span style="color:#7253ed">Custom domain</span> &nbsp; CNAME file must include "www." to avoid redirected loop errors (ol)
-    1. <span style="color:#7253ed">PATH</span> &nbsp; when an image doesn't show up or CSS fails to load, check out PATHs (ol)
+    1. <span style="color:#7253ed">Custom domain</span> &nbsp; CNAME file must include "www." to avoid redirected loop errors 
+    1. <span style="color:#7253ed">PATH</span> &nbsp; when an image doesn't show up or CSS fails to load, check out PATHs 
     1. <span style="color:#7253ed"> command+shift+r </span> &nbsp; deleted cached data in a Chrome browser
 
 ```javascript
