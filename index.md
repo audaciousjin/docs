@@ -24,8 +24,8 @@ Hi, my name is Haejin (aka Amy) and I relocated to Canada recently and have ampl
 
 ### [Design]({{site.url}}{{site.baseurl}}{% link docs/design/design.md %}) 
 1. Illustration
-2. Data Visualization
-3. Web Design(e.g. CSS, UX/UI)
+2. Web Design(e.g. CSS, UX/UI)
+3. Data Visualization
 
 ### [Social Works]({{site.url}}{{site.baseurl}}{% link docs/social-work/social-work.md %})
 
