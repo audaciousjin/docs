@@ -108,7 +108,8 @@ _As my first job in Canada_, I am going to help people with developmental disabi
   
 ## Web design(e.g. CSS, UX/UI)
 ### Flexbox
-#### based on Jonas' [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/)
+based on Jonas' [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/)
+{:.no_toc .text-delta}
 
 What makes me irritating all the time is "LAYOUT". For instance, when I want to put three images in the same row. They have to be vertically aligned center. Answer is in **Flexbox**! [answer also in CodePen](https://codepen.io/audaciousjin/pen/orGVeE)
 
